@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140794-0d4bf654-0884-4068-b5bb-eaee36c36797.png">
   <br />
   Core ML Guide
 </h1>
@@ -9,31 +9,31 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/132140795-bbb0ed1e-b1f7-4716-bc4d-8ebffde6fd00.png">
   <br />
 </p>
 
 # Table of Contents
 
-1. [Core ML Learning Resources](https://github.com/mikeroyal/CoreML-Guide#)
+1. [Core ML Learning Resources](https://github.com/mikeroyal/CoreML-Guide#core-ml-learning-resources)
 
-2. [Core ML Tools, Libraries, Frameworks](https://github.com/mikeroyal/CoreML-Guide#)
+2. [Core ML Tools, Libraries, and Frameworks](https://github.com/mikeroyal/CoreML-Guide#core-ml-tools-libraries-and frameworks)
 
 3. [Apple Silicon](https://github.com/mikeroyal/CoreML-Guide#apple-silicon)
 
-4. [Algorithms](https://github.com/mikeroyal/CoreML-Guide#)
+4. [Algorithms](https://github.com/mikeroyal/CoreML-Guide#algorithms)
 
-5. [Machine Learning](https://github.com/mikeroyal/CoreML-Guide#)
+5. [Machine Learning](https://github.com/mikeroyal/CoreML-Guide#machine-learning)
 
-6. [Computer Vision Development](https://github.com/mikeroyal/CoreML-Guide#)
+6. [Computer Vision Development](https://github.com/mikeroyal/CoreML-Guide#computer-vision-development)
 
-7. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/CoreML-Guide#)
+7. [Natural Language Processing (NLP) Development](https://github.com/mikeroyal/CoreML-Guide#natural-language-processing-nlp-development)
 
-8. [Metal(API) Development](https://github.com/mikeroyal/CoreML-Guide#)
+8. [Metal(API) Development](https://github.com/mikeroyal/CoreML-Guide#metal-api-development)
 
-9. [Swift Development](https://github.com/mikeroyal/CoreML-Guide#)
+9. [Swift Development](https://github.com/mikeroyal/CoreML-Guide#swift-development)
 
-10. [Objective-C Development](https://github.com/mikeroyal/CoreML-Guide#)
+10. [Objective-C Development](https://github.com/mikeroyal/CoreML-Guide#objective-c-development)
 
 11. [C/C++ Development](https://github.com/mikeroyal/CoreML-Guide#cc-development)
 
