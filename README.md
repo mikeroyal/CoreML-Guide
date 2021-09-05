@@ -360,6 +360,11 @@
 # Computer Vision Development
 [Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/129494417-b0ee8192-ac41-4a6d-8e1d-4761ffc8bab1.png">
+  <br />
+</p>
+
 ## Computer Vision Learning Resources
 
 [Computer Vision](https://azure.microsoft.com/en-us/overview/what-is-computer-vision/) is a field of Artificial Intelligence (AI) that focuses on enabling computers to identify and understand objects and people in images and videos.
