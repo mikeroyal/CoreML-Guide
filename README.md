@@ -17,7 +17,7 @@
 
 1. [Core ML Learning Resources](https://github.com/mikeroyal/CoreML-Guide#core-ml-learning-resources)
 
-2. [Core ML Tools, Libraries, and Frameworks](https://github.com/mikeroyal/CoreML-Guide#core-ml-tools-libraries-and frameworks)
+2. [Core ML Tools, Libraries, and Frameworks](https://github.com/mikeroyal/CoreML-Guide#core-ml-tools-libraries-and-frameworks)
 
 3. [Apple Silicon](https://github.com/mikeroyal/CoreML-Guide#apple-silicon)
 
