@@ -42,7 +42,7 @@
 # Core ML Learning Resources
 [Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
-[Core ML](https://developer.apple.com/documentation/coreml) is an Apple framework for integrating machine learning models into apps running on Apple devices (including iOS, watchOS, macOS, and tvOS). Core ML introduces a public file format (.mlmodel) for a broad set of ML methods including deep neural networks (both convolutional and recurrent), tree ensembles with boosting, and generalized linear models. Models in this format can be directly integrated into apps through Xcode. Core ML optimizes on-device performance by leveraging the CPU, GPU, and Neural Engine while minimizing its memory footprint and power consumption.
+[Core ML](https://developer.apple.com/documentation/coreml) is an Apple framework for integrating machine learning models into apps running on Apple devices (including iOS, watchOS, macOS, and tvOS). Core ML introduces a public file format (.mlmodel) for a broad set of ML methods including deep neural networks (both convolutional and recurrent), tree ensembles with boosting, and generalized linear models. Models in this format can be directly integrated into apps through Xcode.
 
 [Introduction to Core ML](https://coremltools.readme.io/docs)
 
@@ -64,7 +64,7 @@
 
 [Generate Core ML assets using IBM Maximo Visual Inspection | IBM](https://developer.ibm.com/technologies/iot/tutorials/ibm-maximo-visual-inspection-apple-devices/)
 
-# Core ML Tools, Libraries, Frameworks
+# Core ML Tools, Libraries, and Frameworks
 
 [Back to the Top](https://github.com/mikeroyal/CoreML-Guide#table-of-contents)
 
